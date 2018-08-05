@@ -1,6 +1,6 @@
-# App de Podcastr de Platzi
+# Podcast Next
 
-App de Podcast integrada con la API de Audioboom.
+App de Podcast integrada con la API de Audioboom. Hecho con React y Next.js
 
 ![screenshot](.readme-img/sc.png)
 
