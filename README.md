@@ -1,6 +1,8 @@
 # Podcast Next
 
-App de Podcast integrada con la API de Audioboom. Hecho con React y Next.js
+App de Podcast integrada con la API de Audioboom. Hecho con React y Next.js.
+
+Mira Live Demo [aquí](https://podcast-dadzjorpfe.now.sh/)
 
 ![screenshot](.readme-img/sc.png)
 
